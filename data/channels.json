@@ -1,14 +1,15 @@
-{ 
-  AztecaUno: { 
-    id: "azt_119vx"
-  }, 
-  AztecaSiete: {
-    id: "rrnt_93rrr" 
-  },
-  CanalDos: {
-    id: "2wm08q" 
-  },
-  CanalCinco: {
-    id: "6nm94t" 
+[
+  { 
+    "name": "AztecaUno", 
+    "id": "azt_119vx" 
+  }, { 
+    "name": "AztecaSiete", 
+    "id": "rrnt_93rrr" 
+  }, { 
+    "name": "CanalDos", 
+    "id": "2wm08q" 
+  }, { 
+    "name": "CanalCinco", 
+    "id": "6nm94t" 
   }
-}
+];
