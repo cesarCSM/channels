@@ -1,15 +1,6 @@
-[
-  { 
-    "name": "AztecaUno", 
-    "id": "azt_119vx" 
-  }, { 
-    "name": "AztecaSiete", 
-    "id": "rrnt_93rrr" 
-  }, { 
-    "name": "CanalDos", 
-    "id": "2wm08q" 
-  }, { 
-    "name": "CanalCinco", 
-    "id": "6nm94t" 
-  }
-]
+{ 
+  "AztecaUno": "azt_119vx",
+  "AztecaSiete": "rrnt_93rrr",
+  "CanalDos": "2wm08q",
+  "CanalCinco": "6nm94t" 
+}
