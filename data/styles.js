@@ -1,4 +1,4 @@
-const PlayChannel = {
+export const PlayChannel = {
     container: {
       flex: 1,
       width: "100%",
