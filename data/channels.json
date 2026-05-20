@@ -1,7 +1,7 @@
 { 
-  "MX": ["Azteca7.mx@SD", "AztecaInternacional.mx@SD", "AztecaUno.mx@SD", "TUDN.mx@SD", "Canal5.mx@SD", "Foro.mx@SD"],
-  "CA": [],
-  "FR": [],
+  "MX": ["Azteca7.mx@SD", "AztecaInternacional.mx@SD", "AztecaUno.mx@SD", "TUDN.mx@SD", "Canal5.mx@SD", "Foro.mx@SD", "LasEstrellas.mx@SD", "TeleFormula.mx@SD"],
+  "CA": ["TSN1.ca@SD", "TSN2.ca@SD", "TSN3.ca@SD", "TSN4.ca@SD", "TSN5.ca@SD", "TSNTheOcho.ca@SD", "CFTMDT.ca@SD", "TV5QuebecCanada.ca@SD", "CBMTDT.ca@SD", "FilmRiseAnime.us@SD", "CBFTDT.ca@SD", "CJBRDT.ca@SD", "MovieSphere.us@CA"],
+  "FR": ["arte.fr@HD", "CanalPlus.fr@enclair", "France2.fr@HD", "France4.fr@HD", "France5.fr@HD", "Franceinfo.fr@SD", "LCI.fr@HD", "M6.fr@SD", "MTV.fr@SD", "Nickelodeon.fr@SD", "RTFrance.fr@SD", "SouthPark.us@France", "TF1.fr@HD", "TF1SeriesFilms.fr@SD", "TFX.fr@SD", "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD"],
   "US": [],
   "CH": [],
   "UK": []
