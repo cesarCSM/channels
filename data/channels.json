@@ -2,7 +2,7 @@
   "MX": ["Azteca7.mx@SD", "AztecaInternacional.mx@SD", "AztecaUno.mx@SD", "TUDN.mx@SD", "Canal5.mx@SD", "Foro.mx@SD", "LasEstrellas.mx@SD", "TeleFormula.mx@SD"],
   "CA": ["TSN1.ca@SD", "TSN2.ca@SD", "TSN3.ca@SD", "TSN4.ca@SD", "TSN5.ca@SD", "TSNTheOcho.ca@SD", "CFTMDT.ca@SD", "TV5QuebecCanada.ca@SD", "CBMTDT.ca@SD", "FilmRiseAnime.us@SD", "CBFTDT.ca@SD", "CJBRDT.ca@SD", "MovieSphere.us@CA"],
   "FR": ["arte.fr@HD", "CanalPlus.fr@enclair", "France2.fr@HD", "France4.fr@HD", "France5.fr@HD", "Franceinfo.fr@SD", "LCI.fr@HD", "M6.fr@SD", "MTV.fr@SD", "Nickelodeon.fr@SD", "RTFrance.fr@SD", "SouthPark.us@France", "TF1.fr@HD", "TF1SeriesFilms.fr@SD", "TFX.fr@SD", "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD"],
-  "US": [],
-  "CH": [],
-  "UK": []
+  "US": ["BellatorMMA.us@SD", "CineAdrenalina.us@SD", "CinePremiere.us@SD", "CineSony.us@SD", "CineLife.us@SD", "ComedyCentral.us@East", "ComedyCentralenEspanol.us@SD", "ComedyCentralPlutoTV.us@US", "DisneyXD.us@East", "FailArmy.us@US", "FilmRiseAnime.us@SD", "FoxDeportes.us@SD", "FoxSports1.us@HD", "FoxSports2.us@HD", "FTFSports.us@SD", "FunnyAF.us@SD", "FX.us@East", "KNBC41.us@HD", "MoreTVDrama.us@SD", "MoreTVSitcoms.us@SD", "MovieSphere.us@US", "MTVenEspanol.us@SD", "MTVPlutoTV.us@US", "NBCSportsNOW.us@SD", "Nickelodeon.us@East", "NickenEspanol.us@SD", "ParamountMovieChannel.us@SD", "ParamountPlusPicks.us@SD", "PlutoTVAnime.us@US", "PlutoTVAnimeMovies.us@SD", "PlutoTVComedy.us@US", "Showtime.us@East", "Stadium.us@SD", "Starz.us@East", "TelemundoAlDia.us@HD", "TSTV.us@SD", "TyCSportsUSA.ar@SD", "Vevo2K.us@SD", "Vevo70s.us@SD", "Vevo80s.us@SD", "Vevo90s.us@SD", "VevoLatino.us@SD", "ViceNews.us@SD", "VICETV.us@SD", "WLTVDT231.us@HD", "WNJU471.us@HD", "YoMTV.us@SD"],
+  "CH": ["ComedyCentral.de@HD", "NickComedyCentralPlus1.de@HD"],
+  "UK": ["ENTChannel.uk@HD", "ENTFamily.uk@HD", "FailArmy.us@UK"]
 }
